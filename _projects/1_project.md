@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: HR Data Analytics Dashboard using-Power BI Public
+description: The key purpose of this dashboard is to analyze the factors due which attrition rate is increasing by applying filters for time periods, comparative analysis across departments, demographic breakdowns, tenure insights, and interactive visualizations for dynamic data exploration. Dataset link is https://bit.ly/3TmtJnf.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Data Analytics
 related_publications: true
 ---
 
